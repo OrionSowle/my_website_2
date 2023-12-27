@@ -1,0 +1,25 @@
+main {
+    background: white;
+    border: thick double #32a1ce;
+}
+
+#list {
+    font-family: sans-serif;
+    background: white;
+    color: white;
+    border: thick double #32a1ce
+}
+
+#more {
+    font-family: sans-serif;
+    color:white;
+    background: white;
+    border: thick double #32a1ce
+}
+
+nav{
+    font-family:'Franklin Gothic Medium';
+    color:blue;
+    background: white;
+    border: thick double #32a1ce
+}
